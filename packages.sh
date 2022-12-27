@@ -5,6 +5,7 @@ packages=(
 "curl"
 "wget"
 "git-core"
+"python3"
 )
 
 apt-get update && \
