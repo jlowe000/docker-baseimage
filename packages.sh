@@ -6,6 +6,11 @@ packages=(
 "wget"
 "git-core"
 "python3"
+"autoconf"
+"automake"
+"libtool"
+"pkg-config"
+"python"
 )
 
 apt-get update && \
